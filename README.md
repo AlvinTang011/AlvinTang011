@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlvinTang011
+- 👋 Hi, I’m @AlvinTang011 currently in my penultimate year in NTU
 - 👀 I’m interested in software engineering and business analaytics
 - 🌱 I’m currently learning Computer Science and second major in Business
 - 💞️ I’m comfortable in coding in python, java and C++, practicing Leetcode to further improve myself
